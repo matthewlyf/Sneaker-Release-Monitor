@@ -157,7 +157,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Author
 
-Created by **Matthew**. Feel free to [contact me](mailto:your_email@example.com) with any feedback or suggestions!
+Created by **Matthew**. Feel free to contact me with any feedback or suggestions!
 
 ---
 
