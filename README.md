@@ -27,7 +27,7 @@ Follow these steps to set up and run the Sneaker Release Monitor:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/sneaker-release-monitor.git
+git clone https://github.com/matthewlyf/sneaker-release-monitor.git
 cd sneaker-release-monitor
 ```
 
@@ -66,9 +66,6 @@ python src/sneaker_monitor.py
 **Release Date**: October 15, 2023  
 **Urgency Level**: Dropping in 2 days and 3 hours!  
 **Link**: [View Product](https://www.nike.com)
-
-### Email Design
-![Example Email Output](examples/sneaker_email.png)
 
 ---
 
@@ -142,12 +139,3 @@ pip install -r requirements.txt
 
 ---
 
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
-
----
-
-## Contribution
-
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
