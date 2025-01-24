@@ -32,7 +32,7 @@ Follow these steps to set up and run the Sneaker Release Monitor script:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sneaker-release-monitor.git
+git clone https://github.com/matthewlyf/sneaker-release-monitor.git
 cd sneaker-release-monitor
 ```
 
